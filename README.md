@@ -56,7 +56,5 @@ MinLengthNozzle(1.4, 3, 20)
 This will generate a minimum-length nozzle for **air (\( \gamma = 1.4 \))**, an **exit Mach number of 3**, using **20 characteristic lines**.
 
 ---
-**Author:** [Your Name]  
-**Date:** [Today's Date]
-
+**Author:** Alan Ramirez
 
